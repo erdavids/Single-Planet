@@ -1,4 +1,4 @@
-# Single Planet / [Tutorial](https://www.youtube.com/watch?v=3_7rxEQKCIk)
+# Single Planet / [Tutorial](https://www.youtube.com/watch?v=gj--Mc-c2JU)
 
 This is a simple process to create a low-detail planet with Python Processing. The general workflow is to draw a circle for the base planet, draw a series of rings on top of it, then cover a portion of the rings with a filled in arc to create the illusion that the rings actually circle the planet.
 
